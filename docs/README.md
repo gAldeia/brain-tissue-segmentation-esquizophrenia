@@ -21,7 +21,8 @@ Para executar o projeto em sua máquina, você deve:
 Após executar esses scripts, o repositório estará configurado para rodar os notebooks em ./docs/!
 
 As versões das bibliotecas utilizadas foram:
-|Biblioteca | Versão |
+
+| Biblioteca | Versão |
 | --- | --- |
 | nilear | 0.5.0 |
 | nibabel  | 2.3.3 |
