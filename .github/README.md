@@ -14,7 +14,7 @@ Estudos comprovaram que há uma dilatação dos ventrículos laterais, e uma alt
 
 Dito isso, devido às alterações estruturais conhecidas que ocorrem em cérebros de pacientes esquizofrênicos e, por apresentam potencial de serem medidas por métodos de visão computacional, a proposta do projeto é criar uma \textit{pipeline} de pré-processamento de imagens de ressonância (focando apenas no aspecto anatômico/estrutural), com o objetivo de utilizar os dados processados em modelos de aprendizado de máquina, e medir a acurácia obtida.
 
-| ![](sub-11.gif) |
+| ![](../docs/sub-11.gif) |
 | --- |
 | Exemplo do resultado da segmentação feita pelo método. A primeira linha apresenta o cérebro após _skull stripping_, a segunda linha apresenta a segmentação de massa branca, a terceira a segmentação de massa cinzenta, e a última a segmentação de líquor.|
 
