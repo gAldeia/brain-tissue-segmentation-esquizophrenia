@@ -1,12 +1,10 @@
 # Estratégia para Segmentação de Tecidos Cerebrais, e o uso de Aprendizado de Máquina para validação dos resultados
 
-| Descrição | Exemplo do resultado |
-| --- | --- |
-| Projeto desenvolvido para a disciplina Visão Computacional na UFABC, ministrada pelo Prof. Dr. Francisco Zampirolli. O projeto envolve o uso de técnicas de visão computacional para processamento de imagens de ressonância magnética obtidas de pacientes saudáveis e esquizofrênicos. Para validação da estratégia de segmentação utilizada, dois modelos simples de aprendizado de máquina (KNN e SVM) foram utilizados, para verificar se é possível utilizar o resultado da visão computacional para diagnosticar pacientes. | ![](sub-11.gif) |
+| Descrição do repositório |
+| --- | 
+| Projeto desenvolvido para a disciplina Visão Computacional na UFABC, ministrada pelo Prof. Dr. Francisco Zampirolli. O projeto envolve o uso de técnicas de visão computacional para processamento de imagens de ressonância magnética obtidas de pacientes saudáveis e esquizofrênicos. Para validação da estratégia de segmentação utilizada, dois modelos simples de aprendizado de máquina (KNN e SVM) foram utilizados, para verificar se é possível utilizar o resultado da visão computacional para diagnosticar pacientes. | 
 
-
-
-
+## Motivação
 
 Dentre as variações estruturais no cérebro, podemos citar um aumento do volume dos ventrículos laterais, e um desvio na relação entre massa branca (conexões entre neurônios) e massa cinzenta (corpos celulares de neurônios).
 
@@ -16,9 +14,15 @@ Estudos comprovaram que há uma dilatação dos ventrículos laterais, e uma alt
 
 Dito isso, devido às alterações estruturais conhecidas que ocorrem em cérebros de pacientes esquizofrênicos e, por apresentam potencial de serem medidas por métodos de visão computacional, a proposta do projeto é criar uma \textit{pipeline} de pré-processamento de imagens de ressonância (focando apenas no aspecto anatômico/estrutural), com o objetivo de utilizar os dados processados em modelos de aprendizado de máquina, e medir a acurácia obtida.
 
+| ![](sub-11.gif) |
+| --- |
+| Exemplo do resultado da segmentação feita pelo método. A primeira linha apresenta o cérebro após _skull stripping_, a segunda linha apresenta a segmentação de massa branca, a terceira a segmentação de massa cinzenta, e a última a segmentação de líquor.|
+
+Esse trabalho implementou técnicas de visão computacional aprendidas durante a disciplina de Visão Computacional - Processamento de Imagens, ministrada pelo Prof. Dr. Francisco Zampirolli na Universidade Federal do ABC em 2019.
+
 -----
 
-# Instalação e uso
+## Instalação e uso
 
 Para executar o projeto em sua máquina, você deve:
 1. Clonar este repositório e instalar todas as bibliotecas necessárias;
