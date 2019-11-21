@@ -1,6 +1,12 @@
 # Estratégia para Segmentação de Tecidos Cerebrais, e o uso de Aprendizado de Máquina para validação dos resultados
 
-![](sub-11.gif)
+| Descrição | Exemplo do resultado |
+| --- | --- |
+| Projeto desenvolvido para a disciplina Visão Computacional na UFABC, ministrada pelo Prof. Dr. Francisco Zampirolli. O projeto envolve o uso de técnicas de visão computacional para processamento de imagens de ressonância magnética obtidas de pacientes saudáveis e esquizofrênicos. Para validação da estratégia de segmentação utilizada, dois modelos simples de aprendizado de máquina (KNN e SVM) foram utilizados, para verificar se é possível utilizar o resultado da visão computacional para diagnosticar pacientes. | ![](sub-11.gif) |
+
+
+
+
 
 Dentre as variações estruturais no cérebro, podemos citar um aumento do volume dos ventrículos laterais, e um desvio na relação entre massa branca (conexões entre neurônios) e massa cinzenta (corpos celulares de neurônios).
 
