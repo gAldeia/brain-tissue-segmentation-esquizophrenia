@@ -42,3 +42,12 @@ As versões das bibliotecas utilizadas foram:
 | matplotlib  | 2.3.3 |
 | pandas  | 0.23.4 |
 | opencv-python  | 3.4.3 |
+
+
+## Recomendações
+
+A leitura do Relatório Final e dos notebooks com as implementações, na pasta <pre>./docs/</pre> ajudam a compreender as estratégias e explicam um pouco as bases neuroanatômicas envolvidas.
+
+Os códigos implementados não tem como objetivo principal apresentarem um desempenho competitivo com técnicas de estado da arte, que envolvem processamentos muito mais complexos - o objetivo foi exercitar os conceitos aprendidos durante a disciplina.
+
+Atualmente a tecnica mais robusta utilizada para essa tarefa é a VBM/SPM, indicação para quem quer se aprofundar no assunto. Um programa para visualização de imagens de ressonância gratuito que pode também ser de interesse é o MRIcro.
