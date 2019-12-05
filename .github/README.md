@@ -46,7 +46,7 @@ As versões das bibliotecas utilizadas foram:
 
 ## Recomendações
 
-A leitura do Relatório Final e dos notebooks com as implementações, na pasta <pre>./docs/</pre> ajudam a compreender as estratégias e explicam um pouco as bases neuroanatômicas envolvidas.
+A leitura do Relatório Final e dos notebooks com as implementações, na pasta: <pre>./docs/</pre> ajudam a compreender as estratégias e explicam um pouco as bases neuroanatômicas envolvidas. Nessa pasta também temos alguns exemplos de imagens geradas através do uso do script.
 
 Os códigos implementados não tem como objetivo principal apresentarem um desempenho competitivo com técnicas de estado da arte, que envolvem processamentos muito mais complexos - o objetivo foi exercitar os conceitos aprendidos durante a disciplina.
 
