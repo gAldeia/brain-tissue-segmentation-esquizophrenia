@@ -46,10 +46,12 @@ As versões das bibliotecas utilizadas foram:
 
 ## Recomendações
 
-A leitura do Relatório Final e dos notebooks com as implementações, na pasta: <pre>./docs/</pre> ajudam a compreender as estratégias e explicam um pouco as bases neuroanatômicas envolvidas. Nessa pasta também temos alguns exemplos de imagens geradas através do uso do script.
+A leitura do Relatório Final e dos notebooks com as implementações, na pasta: <pre>./docs/</pre> ajudam a compreender as estratégias e explicam um pouco as bases neuroanatômicas envolvidas. 
 
 Os códigos implementados não tem como objetivo principal apresentarem um desempenho competitivo com técnicas de estado da arte, que envolvem processamentos muito mais complexos - o objetivo foi exercitar os conceitos aprendidos durante a disciplina.
 
 Atualmente a tecnica mais robusta utilizada para essa tarefa é a VBM/SPM, indicação para quem quer se aprofundar no assunto. Um programa para visualização de imagens de ressonância gratuito que pode também ser de interesse é o MRIcro.
 
 O site http://www.neuroanatomy.ca/ tem imagens muito boas para estudar neuroanatomia.
+
+Na pasta: <pre>./results samples/</pre> temos alguns exemplos de gifs obtidos através do uso desse pipeline para realizar a segmentação dos tecidos.
