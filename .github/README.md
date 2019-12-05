@@ -54,4 +54,4 @@ Atualmente a tecnica mais robusta utilizada para essa tarefa é a VBM/SPM, indic
 
 O site http://www.neuroanatomy.ca/ tem imagens muito boas para estudar neuroanatomia.
 
-Na pasta: <pre>./results samples/</pre> temos alguns exemplos de gifs obtidos através do uso desse pipeline para realizar a segmentação dos tecidos.
+Na pasta: <pre>./results samples/</pre> temos alguns exemplos de gifs obtidos através do uso desse pipeline para realizar a segmentação dos tecidos (10 gifs selecionados de forma aleatória).
