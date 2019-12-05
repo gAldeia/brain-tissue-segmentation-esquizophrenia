@@ -34,7 +34,7 @@ As versões das bibliotecas utilizadas foram:
 
 | Biblioteca | Versão |
 | --- | --- |
-| nilear | 0.5.0 |
+| nilearn | 0.5.0 |
 | nibabel  | 2.3.3 |
 | scipy  | 1.1.0 |
 | deepbrain  | 0.1 |
